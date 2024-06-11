@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/Model/StudentModel.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/coltroller/LoginInfoController.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/StudentDao.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/StudentRegistration.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/LoginInfo.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/Main.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/SubjectDetails.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/db/MyConnection.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/OtherActivities.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/StudentD.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/coltroller/HomePageController.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/CourseDao.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/coltroller/StudentDController.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/Model/CourseModel.java</file>
+            <file>file:/C:/Users/Thulani/Documents/NetBeansProjects/StudentRegistration/src/View/HomePage.java</file>
+        </group>
+    </open-files>
+</project-private>
